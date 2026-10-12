@@ -1,0 +1,24 @@
+# 构建产物
+/dist/
+/tp-link-decrypt.exe
+/tp-link-decrypt
+*.exe
+
+# 解密输出
+*.dec
+
+# 本地测试固件 / 临时文件
+/ax.bin
+/ax.bin.dec
+*.bin
+*.rollback
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Go 缓存
+*.test
+*.out

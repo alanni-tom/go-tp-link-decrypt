@@ -18,9 +18,6 @@
   <img src="https://img.shields.io/badge/License-GPL--3.0-blue" alt="License">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-2ea44f" alt="Platform">
 </p>
-
-</div>
-
 ---
 
 ## ✨ 特性
@@ -146,7 +143,7 @@ TP-Link 固件使用自定义的 RSA-PSS 签名 + AES/DES 加密，本工具精�
 
 ---
 
-## 🙏 致谢与署名
+## 🎉 致谢与署名
 
 本项目的**解密算法、偏移量与密钥提取**完全来自以下开源 C 工具，特此声明并致谢：
 

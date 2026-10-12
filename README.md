@@ -5,7 +5,6 @@
 
 > 本项目为 **Web & CLI 重构**，**解密逻辑与算法完全移植自原作者的开源 C 工具**。
 >
-> 原 C 语言版本作者：**[Watchful_IP](https://watchfulip.github.io) & robbins**
 > 遵循 **GPL-3.0** 许可证。本 Go 版同样以 GPL-3.0 发布。
 
 <p>
@@ -127,8 +126,8 @@ TP-Link 固件使用自定义 RSA-PSS 签名 + AES / DES 加密，本工具精�
 
 本项目的**解密算法、偏移量与密钥提取**完全来自以下开源 C 工具，特此声明并致谢：
 
-> **原版 C 工具作者：Watchful_IP & robbins**
-> 项目主页：[watchfulip.github.io](https://watchfulip.github.io)
+> **原版工具作者：robbins**
+> 项目主页：[robbins]([url](https://github.com/robbins/tp-link-decrypt))
 > 许可证：**GNU General Public License v3.0**
 
 密钥来源固件链接（由原作者提供，仅用于一次性提取密钥，本 Go 版已内置、无需下载）：
